@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "305094226623",
+    "project_id": "surprisekar-a75e0",
+    "storage_bucket": "surprisekar-a75e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305094226623:android:82274bec5413f1c0060c0a",
+        "android_client_info": {
+          "package_name": "com.surprisekar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVftTZA3wZBOYcYAOPQ_A5FxT8-ccihiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
